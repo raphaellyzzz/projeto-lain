@@ -8,7 +8,7 @@ body {
     justify-content: center;
     height: 100vh;
     background-color: #f5f5f5;
-    background-image: url(/images/part3/background-wired.webp);
+    background-image: url('background-wired.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

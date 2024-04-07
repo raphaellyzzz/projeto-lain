@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('/images/part5/background1.gif');
+    background-image: url('background1.gif');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
